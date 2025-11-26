@@ -26,9 +26,3 @@ I’m a former mortgage and credit operations professional transitioning into th
 - **Network Scanning Lab** – Nmap enumeration & reporting  
 
 
-
-📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=cyberjuanr&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberjuanr&layout=compact&theme=tokyonight)
-
-
